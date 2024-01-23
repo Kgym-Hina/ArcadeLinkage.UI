@@ -1,6 +1,6 @@
 # ArcadeLinkage.UI
 
-街机游戏录制系统UI
+街机游戏录制系统UI，公益项目
 
 ## 下载
 
