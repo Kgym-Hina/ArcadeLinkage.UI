@@ -8,6 +8,12 @@
 
 提取码: `alls`
 
+## 相关项目
+
+[OBS公告显示](https://github.com/Kgym-Hina/alls_obs_ad)
+
+[配套App](https://github.com/Kgym-Hina/alls_recorder)
+
 ## 配置
 
 路径: `%userprofile%\AppData\LocalLow\DeltaGames\ALLS_UI\config.json`
